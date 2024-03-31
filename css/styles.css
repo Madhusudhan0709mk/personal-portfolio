@@ -11738,3 +11738,11 @@ html {
   width:100vw;
   z-index:3;
 }
+
+.main_content{
+  opacity:0;
+}
+
+.main_content.animate__animated{
+  opacity:1;
+}
