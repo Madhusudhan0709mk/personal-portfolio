@@ -14,7 +14,7 @@ $(document).ready(function(){
 $(document).ready(function(){
     $(".main1_content").waypoint(function(){
         $(".main1_content").addClass("animate__animated animate__fadeInLeft");
-    },{offset:"75%"});
+    },{offset:"50%"});
 });
 
 
